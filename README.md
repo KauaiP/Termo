@@ -6,5 +6,5 @@ O projeto ainda não está totalmente completo.
 A motivação veio por conta de um trabalho da faculdade em que era obrigatório o uso da Allegro 5, então veio a ideia de recriar o jogo Termo.
 
 ## Observação
-O código fonte está no arquivo "main.c" e também é disponibilizado o arquivo com uma sequencia de palavras aleatória com 5 letras (palavras.csv)
+O código fonte está no arquivo "main.c" e também é disponibilizado o arquivo com uma sequência de palavras aleatórias com 5 letras (palavras.csv)
 como também o arquivo com a fonte usada na interface.
